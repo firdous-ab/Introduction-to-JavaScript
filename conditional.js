@@ -36,3 +36,11 @@ else if(username === 'Firdous' || password === 'secret'){
 else{
     console.log('Username not recognized');
 }
+
+
+//FOR LOOP
+//condition: -initialisation; -condition; -increment
+
+for(let i=0; i< 11; i+=1 ){
+   console.log(i);
+}
