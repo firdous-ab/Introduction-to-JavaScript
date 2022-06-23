@@ -57,3 +57,15 @@ while(i<=10){
   console.log(i);
   i++;
 }
+
+//JAVA SCRIPT FUNCTION
+// format; Function FunctionName(parameter)
+// it is advisable to start your function name witha verb, e.g getName
+
+function getName(){
+    console.log('Firdous');
+}
+
+getName(); // this will be used to call the function
+
+
