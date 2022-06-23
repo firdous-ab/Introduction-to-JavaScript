@@ -59,7 +59,9 @@ while(i<=10){
 }
 
 //JAVA SCRIPT FUNCTION
-// format; Function FunctionName(parameter)
+/*format; Function FunctionName(parameter){
+    funtion body
+}  */
 // it is advisable to start your function name witha verb, e.g getName
 
 function getName(){
