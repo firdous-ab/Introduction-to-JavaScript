@@ -41,6 +41,19 @@ else{
 //FOR LOOP
 //condition: -initialisation; -condition; -increment
 
+let num = 0;
+
 for(let i=0; i< 11; i+=1 ){
-   console.log(i);
+   num += i; 
+}
+
+console.log(num); // this will add all the numbers from 0 to 11
+
+//WHILE LOOP
+
+let i = 1;
+
+while(i<=10){
+  console.log(i);
+  i++;
 }
