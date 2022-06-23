@@ -24,12 +24,13 @@ console.log('code continues');
 
 // Nested ELSE-IF statements
 
-let username = '';
+let username = 'Firdous';
+let password = 'secret'
 
-if(username == ''){
+if(username === ''){
   console.log('All fields are required');
 }
-else if(username == 'Firdous'){
+else if(username === 'Firdous' || password === 'secret'){
     console.log('login');
 }
 else{
